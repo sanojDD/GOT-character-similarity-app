@@ -1,10 +1,8 @@
 # GOT-character-similarity-app
 A simple Streamlit app to explore and compare Game of Thrones characters based on their dialogue embeddings using t-SNE and Euclidean similarity.
 
-![App Screenshot](similarity.png)
-
 <p align="center">
-  <img src="similarity.png" width="600"/>
+  <img src="similar.png" width="600"/>
 </p>
 
 
